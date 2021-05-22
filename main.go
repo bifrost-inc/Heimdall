@@ -3,8 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/bifrost-inc/Heimdall/src/core"
-        "github.com/bifrost-inc/Heimdall/src/enumerators/heathcheck"
+	"github.com/bifrost-inc/Heimdall/core"
 )
 
 func main() {

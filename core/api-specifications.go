@@ -3,7 +3,7 @@ package core
 import (
 	"time"
 
-	"github.com/bifrost-inc/Heimdall/src/enumerators/healthcheck"
+	"github.com/bifrost-inc/Heimdall/enumerators/healthcheck"
 )
 
 type Api struct {
